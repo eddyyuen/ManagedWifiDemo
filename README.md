@@ -1,2 +1,2 @@
 # ManagedWifiDemo
-Demo of ManagedWifi.
+使用账号、密码自动连接wifi。
